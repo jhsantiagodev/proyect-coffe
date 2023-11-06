@@ -1,0 +1,27 @@
+
+Google fonts:
+https://fonts.google.com/
+'poppins'
+
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,700&display=swap');
+
+	font-family: 'Poppins', sans-serif;
+
+icons: 
+	https://boxicons.com/
+	https://boxicons.com/usage
+	HTML
+	Import css  <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+	Ejemplo: <i class='bx bxl-facebook'></i>
+
+swiperjs:
+	https://swiperjs.com/demos
+	-seleccionas el que quieras
+	- click a core //copiar script
+
+	<!--Link swiperjs-->
+    	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+
+	<!--Swiper JS-->
+	<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
